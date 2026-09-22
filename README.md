@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Gabriel Nogueira
 
-**`Desenvolvedor de Software | BackEnd`**
+**`Desenvolvedor de Software | Backend`**
 
 Olá! Me chamo Gabriel Nogueira e sou estudante de TI/Desenvolvimento de Software. Sou apaixonado por tecnologia e focado na construção de aplicações web funcionais e bem estruturadas, desenvolvendo projetos desde APIs REST robustas no backend até interfaces modernas no frontend.
 
