@@ -1,145 +1,178 @@
-# 👨🏻‍💻 Gabriel Nogueira
+# 👋 Olá, eu sou Gabriel Nogueiras!
 
-**`Desenvolvedor de Software | Backend`**
+### 💻 Backend Developer em formação
 
-Olá! Me chamo Gabriel Nogueira e sou estudante de TI/Desenvolvimento de Software. Sou apaixonado por tecnologia e focado na construção de aplicações web funcionais e bem estruturadas, desenvolvendo projetos desde APIs REST robustas no backend até interfaces modernas no frontend.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+🚀 Focado em desenvolvimento **Backend**
+☕ Estudando **Java + Spring Boot**
+🐍 Explorando **Python**
+🟨 Desenvolvendo projetos com **JavaScript + Node.js**
+🌎 São Paulo, Brasil
 
-<p align="left">
-    <a href="https://github.com/SEU-USUARIO-GITHUB?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU-USUARIO-GITHUB?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/SEU-USUARIO-GITHUB?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO-GITHUB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+---
+
+## 🧑‍💻 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha carreira na área de desenvolvimento de software.
+
+Atualmente, meu foco principal está no **desenvolvimento Backend**, buscando evoluir meus conhecimentos em desenvolvimento de APIs, bancos de dados, autenticação, integração entre sistemas e boas práticas de programação.
+
+Tenho trabalhado em projetos próprios para colocar em prática conceitos de programação e desenvolvimento web, enquanto continuo aprofundando meus conhecimentos em **Java, Python e JavaScript**.
+
+🎯 **Objetivo:** conquistar minha primeira oportunidade profissional como desenvolvedor e continuar evoluindo como Backend Developer.
+
+---
+
+## 🚀 Tecnologias
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,cs" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,angular" />
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 📊 Linguagens mais utilizadas
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Angular" 
-    title="Angular" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Express" 
-    title="Express" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript" 
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML5" 
-    title="HTML5" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS3" 
-    title="CSS3" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="VS Code" 
-    title="VS Code" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNogueiras&layout=donut&theme=tokyonight&hide_border=true"
+    height="180"
   />
 </p>
+
+> O gráfico acima é atualizado com base nos meus repositórios públicos do GitHub.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GabrielNogueiras&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielNogueiras&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+---
+
+## 💻 Minha Stack
+
+| Tecnologia     | Utilização                                  |
+| -------------- | ------------------------------------------- |
+| ☕ Java         | Backend e Programação Orientada a Objetos   |
+| 🌱 Spring Boot | Desenvolvimento de APIs REST                |
+| 🐍 Python      | Backend e desenvolvimento de aplicações     |
+| 🟨 JavaScript  | Desenvolvimento Web e Backend               |
+| 🟢 Node.js     | APIs e aplicações Backend                   |
+| 🔷 C#          | Programação e desenvolvimento de aplicações |
+| 🐘 PostgreSQL  | Banco de dados relacional                   |
+| 🐬 MySQL       | Banco de dados relacional                   |
+| 🅰️ Angular    | Desenvolvimento Frontend                    |
+| 🐳 Docker      | Containerização                             |
+| 🔀 Git         | Controle de versão                          |
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+Java
+ └── Spring Boot
+      ├── APIs REST
+      ├── JPA / Hibernate
+      ├── Spring Security
+      └── Banco de Dados
+
+Python
+ └── Backend
+      ├── APIs
+      └── Desenvolvimento de aplicações
+
+JavaScript
+ └── Node.js
+      ├── Express
+      ├── APIs REST
+      └── Integração com bancos de dados
+```
+
+---
+
+## 🚀 Projetos
+
+### 📚 Library Manager
+
+Sistema web para gerenciamento de livros, desenvolvido para praticar desenvolvimento Full Stack.
+
+**Tecnologias:**
+
+`JavaScript` `Node.js` `Express` `PostgreSQL` `HTML` `CSS`
+
+Principais funcionalidades:
+
+* Cadastro de livros
+* Listagem de livros
+* Busca de livros
+* Integração com Google Books API
+* Autenticação
+* Integração com PostgreSQL
+* API REST
+
+🔗 [Ver projeto](https://github.com/GabrielNogueiras)
+
+---
+
+### 🛒 PSN Store
+
+Projeto desenvolvido para praticar desenvolvimento de interfaces utilizando Angular.
+
+**Tecnologias:**
+
+`Angular` `TypeScript` `HTML` `CSS`
+
+🔗 [Ver projetos](https://github.com/GabrielNogueiras)
+
+---
+
+## 📊 Atividade no GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielNogueiras&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🎯 Objetivos
+
+* [x] Aprender fundamentos de programação
+* [x] Desenvolver projetos próprios
+* [x] Trabalhar com bancos de dados
+* [x] Criar APIs REST
+* [x] Aprender Git e GitHub
+* [ ] Aprofundar Java e Spring Boot
