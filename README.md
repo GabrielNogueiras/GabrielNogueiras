@@ -2,12 +2,12 @@
 
 ### 💻 Backend Developer em formação
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-🚀 Focado em desenvolvimento **Backend**
-☕ Estudando **Java + Spring Boot**
-🐍 Explorando **Python**
-🟨 Desenvolvendo projetos com **JavaScript + Node.js**
-🌎 São Paulo, Brasil
+ Estudante de **Análise e Desenvolvimento de Sistemas**
+ Focado em desenvolvimento **Backend**
+ Estudando **Java + Spring Boot**
+ Explorando **Python**
+ Desenvolvendo projetos com **JavaScript + Node.js**
+ São Paulo, Brasil
 
 ---
 
@@ -19,11 +19,11 @@ Atualmente, meu foco principal está no **desenvolvimento Backend**, buscando ev
 
 Tenho trabalhado em projetos próprios para colocar em prática conceitos de programação e desenvolvimento web, enquanto continuo aprofundando meus conhecimentos em **Java, Python e JavaScript**.
 
-🎯 **Objetivo:** conquistar minha primeira oportunidade profissional como desenvolvedor e continuar evoluindo como Backend Developer.
+ **Objetivo:** conquistar minha primeira oportunidade profissional como desenvolvedor e continuar evoluindo como Backend Developer.
 
 ---
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 ### Backend
 
